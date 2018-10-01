@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AAM - PR02 -Exchange</string>
+    <string name="txtAmount">Amount</string>
+    <string name="txtCurrencyOrigin">From currency</string>
+    <string name="txtCurrencyDestiny">To currency</string>
+    <string name="rdbCurrencyDollar">Dollar</string>
+    <string name="rdbCurrencyEuro">Euro</string>
+    <string name="rdbCurrencyPound">Pound</string>
+    <string name="activity_main_btnExchange">Exchange</string>
+    <string name="lblInitialAmount">0.00</string>
+</resources>
