@@ -58,7 +58,7 @@
             android:text="@string/rdbCurrencyPound" />
         <ImageView
             android:layout_height="wrap_content"
-            android:id="@+id/imageTo"
+            android:id="@+id/imgFrom"
             android:layout_width="wrap_content"
             android:layout_marginLeft="@dimen/marginGeneral"
             android:src="@drawable/ic_euro"/>
@@ -97,7 +97,7 @@
         <ImageView
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
-            android:id="@+id/imageFrom"
+            android:id="@+id/imgTo"
             android:layout_marginLeft="@dimen/marginGeneral"
             android:src="@drawable/ic_dollar"/>
     </RadioGroup>
